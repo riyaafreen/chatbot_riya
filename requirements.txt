@@ -1,0 +1,10 @@
+streamlit
+groq
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+huggingface-hub
+torch
+torchvision
